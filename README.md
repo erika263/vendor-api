@@ -13,6 +13,23 @@ On this projects exists theses files:
 # Installation and Usage
 The project can be run using any Java IDE or from the command line by compiling the java files and running the VendorApplication.java file (SpringBoot file run application).
 
+# Postman API Tests
+POST
+![image](https://github.com/user-attachments/assets/7144c532-ca3b-4abc-b73b-b54b249596b7)
+
+GET
+![image](https://github.com/user-attachments/assets/dac0d528-1d74-4229-879c-21b4d25780f1)
+
+PUT
+![image](https://github.com/user-attachments/assets/9ae0e433-1d26-43c2-b0e4-67853f1b4c78)
+
+DELETE
+![image](https://github.com/user-attachments/assets/00d3a320-3c61-4073-8918-735c7ddabdc9)
+
+
+
+
+
 # Contact
 Email : erika.contax@gmail.com <br>
 Linkedin : https://www.linkedin.com/in/erika-cristina-castro/
