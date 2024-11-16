@@ -13,6 +13,10 @@ On this projects exists theses files:
 # Installation and Usage
 The project can be run using any Java IDE or from the command line by compiling the java files and running the VendorApplication.java file (SpringBoot file run application).
 
+# UML API SYSTEM
+![image](https://github.com/user-attachments/assets/568397a6-3464-4c7e-a543-0e6c67ae210c)
+
+
 # Postman API Tests
 POST
 ![image](https://github.com/user-attachments/assets/7144c532-ca3b-4abc-b73b-b54b249596b7)
